@@ -1,4 +1,4 @@
-package co.appbrewery.micard;
+package com.pranavtaysheti.mi_card;
 
 import io.flutter.embedding.android.FlutterActivity;
 
